@@ -15,20 +15,24 @@ custom_style = Style(background='#fafafa',
 worldmap =  pygal.maps.world.World(style = custom_style, show_legend=False)
 
 #####################
-# updated on Nov 2024
+# updated on Sep 2025
 
 # ca: 23.02, 23.02, 23.02, 23.10				= 4
 # de: 23.05, 24.09						= 2
-# es: 22.12, 23.09						= 2
-# jp: 22.09, 22.09, 22.09, 23.06, 24.10, 24.11		= 6
+# es: 22.12, 23.09, 25.05					= 3
+# it: 25.05							= 1
+# jp: 22.09, 22.09, 22.09, 23.06, 24.10, 24.11, 25.01, 25.01	= 8
+# vn: 25.08							= 1
 #####################
   
 # adding the countries
-worldmap.add('talks', {
+worldmap.add('', {
         'ca' : 4,
-        'de' : 2,
-        'es' : 2,
-        'jp' : 6
+        'de' : 3,
+        'es' : 3,
+        'it' : 1,
+        'jp' : 8,
+        'vn' : 1,
 })
   
 # save into the file
