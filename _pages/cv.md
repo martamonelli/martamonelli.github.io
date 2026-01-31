@@ -28,3 +28,5 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 -->
+
+<embed src="files/monelli_cv.pdf" width="800px" height="2100px" />
