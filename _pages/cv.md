@@ -29,4 +29,9 @@ Talks
   {% endfor %}</ul>
 -->
 
-<embed src="files/monelli_cv.pdf" width="800px" height="2100px" />
+<iframe
+  src="files/monelli_cv.pdf"
+  width="100%"
+  height="2100px"
+  style="border: none;">
+</iframe>
