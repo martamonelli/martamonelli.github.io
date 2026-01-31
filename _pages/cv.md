@@ -31,4 +31,4 @@ Talks
 
 Last updated on Jan 31st, 2026.
 
-<embed src="https://martamonelli.github.io/files/monelli_cv.pdf" width="800px" height="3200px" />
+<embed src="https://martamonelli.github.io/files/monelli_cv.pdf" width="800px" height="3300px" />
