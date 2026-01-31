@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 
@@ -16,4 +16,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-I was contributing author to 14 additional LiteBIRD collaboration papers (2021–present). Full list available on <a href="https://inspirehep.net/authors/2153308">iNSPIRE</a> or upon request.
+I was contributing author to 14 additional LiteBIRD collaboration papers (2021–present). Full list available on <a href="https://inspirehep.net/authors/2153308">iNSPIRE</a>.
