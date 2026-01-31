@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<!--
 Education
 ======
 * Ph.D in Physics, Max Planck Institute for Astrophysics (Garching, Germany), 2024
@@ -26,3 +27,4 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+-->
