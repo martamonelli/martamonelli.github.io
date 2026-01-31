@@ -29,4 +29,6 @@ Talks
   {% endfor %}</ul>
 -->
 
-<embed src="https://martamonelli.github.io/files/monelli_cv.pdf" width="800px" height="2100px" />
+Last updated on Jan 31st, 2026.
+
+<embed src="https://martamonelli.github.io/files/monelli_cv.pdf" width="100%" height=="33.33%" />
