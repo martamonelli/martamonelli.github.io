@@ -29,6 +29,6 @@ Talks
   {% endfor %}</ul>
 -->
 
-Last updated on Jan 31st, 2026.
+Last updated on Feb 3rd, 2026.
 
 <embed src="https://martamonelli.github.io/files/monelli_cv.pdf" width="800px" height="3300px" />
